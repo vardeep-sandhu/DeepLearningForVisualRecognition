@@ -16,7 +16,10 @@ Here you can see the Confusion Matrix of the best model.
 In this sheet we focus on checking Vanishing Gradients which is a major hinderance while learning. This we do by checking the norms while learning and applying some techniques to overcome this vanishing gradient problem.
 
 Later we also used different optimizers (with adaptive learning rates) and checked their performance on the same Fashion-MNIST dataset.
-  
+
+<p align="center">
+<img src="./images/SGD.png?raw=true" width="40%" height="40%" >
+
 ### Sheet 05
   
 In this sheet the main focus was Normalization and Advanced Regularization. So in the first task we applied Orthogonal matrix regularization which claim that networks benefit from weight matrices which are regularized to be orthogonal.
@@ -32,7 +35,8 @@ By this time so were done with MLPs and finally we got Convolutional Neural Netw
 Later, we added data augmentaiton to our training dataset to push the accuracy of our CNN. The reason for this is that the amount of training data we got is limited, so this is a way to get much more images for free
   
 Lastly, we visualized the filter response to see how the different filters and layers looked like. Here are some visuals
-**add photo**
+<p align="center">
+<img src="./images/Activation_vis.png?raw=true" width="40%" height="40%" >
 
 ### Sheet 07
 
