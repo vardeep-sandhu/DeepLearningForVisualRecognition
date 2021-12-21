@@ -18,7 +18,7 @@ In this sheet we focus on checking Vanishing Gradients which is a major hinderan
 Later we also used different optimizers (with adaptive learning rates) and checked their performance on the same Fashion-MNIST dataset.
 
 <p align="center">
-<img src="./images/SGD.png?raw=true" width="40%" height="40%" >
+<img src="./images/SGD.png?raw=true" width="60%" height="60%" >
 
 ### Sheet 05
   
@@ -36,7 +36,7 @@ Later, we added data augmentaiton to our training dataset to push the accuracy o
   
 Lastly, we visualized the filter response to see how the different filters and layers looked like. Here are some visuals
 <p align="center">
-<img src="./images/Activation_vis.png?raw=true" width="40%" height="40%" >
+<img src="./images/Activation_vis.png?raw=true" width="80%" height="80%" >
 
 ### Sheet 07
 
